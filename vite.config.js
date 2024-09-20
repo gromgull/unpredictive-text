@@ -18,5 +18,5 @@ export default defineConfig({
     target: 'esnext',
 	outDir: 'docs',
   },
-
+  base: '/unpredictive-text/'
 });
